@@ -1,9 +1,7 @@
 ## Hi  I`m Francisca 👋 👩‍💻 💻 
- }
 
+![6vIk](https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif)
 
-
-___
 ```js
 const Francisca = {
     pronouns: "She" | "Her",
