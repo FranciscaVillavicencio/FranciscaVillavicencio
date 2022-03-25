@@ -1,6 +1,6 @@
 ## Hi  I`m Francisca 👋 👩‍💻 💻 
 
-<img aling="center" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif">
+<img aling="center" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif"/>
 
 
 ```js
