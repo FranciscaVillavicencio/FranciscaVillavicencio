@@ -1,31 +1,35 @@
-## Hi  I`m Francisca 👋 👩‍💻 💻 
+![head.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-top.png)
 
+Hi there, thanks for stopping by, this is **Charles Zhang**.
 
-<img align="right" alt="gift teclado" width="500px" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif"/>
+<img align='right' src="https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/octocat.gif" width="230">
 
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
-
-```js
-const Francisca = {
-    pronouns: "She" | "Her",
-    askMeAbout: ["web dev"],
-    technologies:{
-        code: [Javascript, HTML, CSS],
-        tools: [Illustrator],
-        frameworks: [React, Tailwind],
-        misc: ["Firebase"]
-    },
-}
+```javascript
+const charles = {
+    pronouns: "He" | "Him",
+    askMeAbout: ["web dev", "tech", "game"],
+    technologies: {
+        frontEnd: {
+            js: ["Vue", "React", "Angular"],
+            css: ["bootstrap", "sass"]
+        },
+        backEnd: ["Java", "PHP"],
+        databases: ["MySql", "oracle"],
+    }
+};
 ```
 
-<a href="https://github.com/FranciscaVillavicencio">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=franciscaVillavicencio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscaVillavicencio&layout=compact&langs_count=7&theme=ocean_dark"/>
+![iCharles's github stats](https://github-readme-stats.vercel.app/api?username=iCharlesZ&hide=contribs,prs&count_private=true&show_icons=true)
 
-    
-<h3> You can find me 🌎 </h3>
-<a href = "mailto:fran.villavicencioa@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-    <a href="https://www.linkedin.com/in/francisca-villavicencio-anabal%C3%B3n-407410229/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href="https://github.com/iCharlesZ">
+  <img src="https://img.shields.io/github/followers/iCharlesZ">
+</a>
+<a href="https://github.com/iCharlesZ">
+   <img src="https://komarev.com/ghpvc/?username=iCharlesZ">
+</a>
 
-    
+![bottom.png](https://raw.githubusercontent.com/iCharlesZ/FigureBed/master/img/readme-bottom.png)
 
+---
+
+⭐️ From [@iCharlesZ](https://github.com/iCharlesZ)
