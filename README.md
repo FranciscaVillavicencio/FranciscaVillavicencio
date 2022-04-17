@@ -2,7 +2,7 @@
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
 
-<img align='right' alt="gift teclado" width="100" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif"/>
+<img align='right' alt="gift teclado" width="350" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif"/>
 
 ```javascript
 const Francisca = {
