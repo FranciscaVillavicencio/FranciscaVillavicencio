@@ -5,6 +5,7 @@
 <img align='right' alt="gift teclado" width="370" src="https://user-images.githubusercontent.com/89401942/160141370-c632c503-660e-4f8b-aacc-fc0a2d1261d1.gif"/>
 
 ```javascript
+height="160em" 
 const Francisca = {
     pronouns: "She" | "Her",
     askMeAbout: ["web dev"],
@@ -18,8 +19,8 @@ const Francisca = {
 ```  
 <p>
 <a href="https://github.com/FranciscaVillavicencio">
-<img height="150em" margin=100px src="https://github-readme-stats.vercel.app/api?username=franciscaVillavicencio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscaVillavicencio&layout=compact&langs_count=7&theme=ocean_dark"/> 
+<img height="160em" margin=100px src="https://github-readme-stats.vercel.app/api?username=franciscaVillavicencio&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true"/>
+<img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=franciscaVillavicencio&layout=compact&langs_count=7&theme=ocean_dark"/> 
 </p>
     
 ---
